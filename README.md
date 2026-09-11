@@ -40,3 +40,7 @@ The `expenses` table contains:
 
 ```bash
 python expense_tracker.py
+
+## Project Screenshot
+
+![Expense Tracker](screenshots/expense_tracker_menu.png)
