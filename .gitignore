@@ -1,0 +1,4 @@
+.vscode/
+*.csv
+*.db
+expense_tracker_backup.py
